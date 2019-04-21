@@ -3,4 +3,4 @@ Banner REST API powered by Spring boot
 
 Runnable options:
 
-Run Application.class
+Create empty MySQL schema with name "jar_soft" and run Application.class

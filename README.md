@@ -3,7 +3,7 @@ Web client for banner REST api
 
 ![alt text](https://cdn.depa.io/images/png/banner/client-view.png)
 
-Runnable options
+Runnable options:
 
 Run "start" script from package.json
 

@@ -1,7 +1,6 @@
 package ru.jarsoft.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import ru.jarsoft.model.Category;
 import ru.jarsoft.validation.CategoryRequest;
